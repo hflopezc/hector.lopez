@@ -1,0 +1,28 @@
+{
+    "nombre_proteina": "Hemoglobina beta humana",
+    "longitud_secuencia": 147,
+    "conteo_aminoacidos": {
+        "A": 15,
+        "C": 2,
+        "D": 7,
+        "E": 8,
+        "F": 8,
+        "G": 13,
+        "H": 9,
+        "I": 0,
+        "K": 11,
+        "L": 18,
+        "M": 2,
+        "N": 6,
+        "P": 7,
+        "Q": 3,
+        "R": 3,
+        "S": 5,
+        "T": 7,
+        "V": 18,
+        "W": 2,
+        "Y": 3
+    },
+    "peso_molecular": 18628.53,
+    "porcentaje_hidrofobico": 44.89795918367347
+}
